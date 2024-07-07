@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{9EE2F2A8-948F-4989-4018-C68125A4717D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TextScript.cs">
+    <Files>
+      <File FileName="Assets/Text Script.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bootcamp96" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f215085a-b50c-4a07-bec5-c6b9be258060" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
